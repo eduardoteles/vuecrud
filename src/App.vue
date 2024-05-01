@@ -2,12 +2,13 @@
   <nav>
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link> |
-    <router-link to="/api">API</router-link>
+    <router-link to="/api">API</router-link> |
+    <router-link to="/firebase">API</router-link>
   </nav>
   <router-view/>
 </template>
 
-<script>
+<!-- <script>
   // the relevant methods
   import { collection, addDoc } from "firebase/firestore"
   // the firestore instance
@@ -36,7 +37,7 @@
       }
     }
   }
-</script>
+</script> -->
 
 <style>
 #app {

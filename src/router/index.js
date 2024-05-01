@@ -23,6 +23,13 @@ const routes = [
     component: function () {
       return import(/* webpackChunkName: "about" */ '../views/APIView.vue')
     }
+  },
+  {
+    path: '/firebase',
+    name: 'firebase',
+    component: function () {
+      return import(/* webpackChunkName: "about" */ '../views/FireView.vue')
+    }
   }
 ]
 
