@@ -1,5 +1,5 @@
 import { collection, addDoc } from "firebase/firestore"
-import db from './firebase/init.js'
+import db from '../firebase/init.js'
 
 export async function createUser(userData) {
   const colRef = collection(db, 'users');

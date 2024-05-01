@@ -9,7 +9,7 @@
 </template>
   
 <script>
-import { createUser } from './scripts/dbscripts.js';  // Adjust the path as necessary
+import { createUser } from '../scripts/dbscripts.js';  // Adjust the path as necessary
 
 export default {
   data() {
