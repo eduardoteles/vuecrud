@@ -1,3 +1,4 @@
+<!-- Challenge: separate components for each form like in https://play.vuejs.org/#eNqVUcFOAjEU/JVnL2gguxo9kYUohEQ9qFEvJr2suw8o7Lab9hUxm/132y6gBCXx0KSdmTdvJq3ZTVVFK4uszxKTaVERGCRbDbkUZaU0wcgSKTlWVhJqmGpVQieK91Bv0OEyiVsHN+sehGVVpIT+Rcn8YniLGiF1p0zlJ2RzUeSQKbdEoiRzksROE7T7G+N/gUm828t67CDl3zVr0DiFZlOwLcRlpqQhl9IZwMArTs/PjhQFSN7DSrjOCpEtB5yF2W6Xs0ADvCkLgcMcSoS63rg3DZAo0UTBJW5tDgqRcYmmYhYtjJKuTO3VfklZiQL1Y0XCJeasD4HxXFoU6uM+YKQt9rZ4Nsds+Qu+MGuPcfak0aBeIWc7jlI9Q2rpycsDrt19R5Yqt4VTHyGf0ajC+oytbGRl7mL/0IW0d+FLhJy9msmaUJptKR/UK5ug58x90/hI9e+4l9FVmOOyYc0XEp0C/Q== -->
 <template>
     <div>
       <h2>Create users document</h2>
