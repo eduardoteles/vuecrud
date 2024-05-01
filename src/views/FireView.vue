@@ -3,7 +3,7 @@
       <h2>Create users document</h2>
         <input type="text" v-model="userData.firstName" /></br>
         <input type="text" v-model="userData.lastName" /></br>
-        <input type="text" v-model="userData.birthDate" /></br>
+        <input type="text" v-model="userData.birthdate" /></br>
         <button @click="handleCreateUser">Create</button>
     </div>
 </template>
