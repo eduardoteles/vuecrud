@@ -3,7 +3,7 @@
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link> |
     <router-link to="/api">API</router-link> |
-    <router-link to="/firebase">API</router-link>
+    <router-link to="/firebase">Firebase Test</router-link>
   </nav>
   <router-view/>
 </template>
